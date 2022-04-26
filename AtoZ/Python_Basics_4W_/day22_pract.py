@@ -1,4 +1,4 @@
 print("hello welcome to learn about git")
-def surname():
-    personal="python git dispos"
-    return surname()
+print("again i want to push data to git")
+
+#push the data to githb
